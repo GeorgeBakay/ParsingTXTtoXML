@@ -1,0 +1,13 @@
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\bin\Debug\netcoreapp3.1\MuseumTxtToX.exe
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\bin\Debug\netcoreapp3.1\MuseumTxtToX.deps.json
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\bin\Debug\netcoreapp3.1\MuseumTxtToX.runtimeconfig.json
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\bin\Debug\netcoreapp3.1\MuseumTxtToX.runtimeconfig.dev.json
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\bin\Debug\netcoreapp3.1\MuseumTxtToX.dll
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\bin\Debug\netcoreapp3.1\MuseumTxtToX.pdb
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\obj\Debug\netcoreapp3.1\MuseumTxtToX.csprojAssemblyReference.cache
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\obj\Debug\netcoreapp3.1\MuseumTxtToX.AssemblyInfoInputs.cache
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\obj\Debug\netcoreapp3.1\MuseumTxtToX.AssemblyInfo.cs
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\obj\Debug\netcoreapp3.1\MuseumTxtToX.csproj.CoreCompileInputs.cache
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\obj\Debug\netcoreapp3.1\MuseumTxtToX.dll
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\obj\Debug\netcoreapp3.1\MuseumTxtToX.pdb
+C:\Users\Георгій\source\repos\MuseumTxtToX\MuseumTxtToX\obj\Debug\netcoreapp3.1\MuseumTxtToX.genruntimeconfig.cache

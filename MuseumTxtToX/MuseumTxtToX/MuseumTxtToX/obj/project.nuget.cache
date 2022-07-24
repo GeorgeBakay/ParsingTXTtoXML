@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/Lq4kXmkWxZZ4Uq00CMs3Arm2Ej1mkb+ujGMJn0ozLl/XUABbT1MLSFN5h0LftMFrPusQk3gc9noApi+TO4BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Георгій\\source\\repos\\MuseumTxtToX\\MuseumTxtToX\\MuseumTxtToX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Георгій\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
